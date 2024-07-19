@@ -23,6 +23,7 @@ RUN         apk add --upgrade --no-cache \
                     bash \
                     bash-completion \
                     rsync \
+                    iptables \
                     openssh \
             && \
             mkdir -p /root/.ssh "${CONF_VOLUME}" "${AUTHORIZED_KEYS_VOLUME}" \
