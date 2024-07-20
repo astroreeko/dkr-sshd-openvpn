@@ -1,6 +1,5 @@
 # Other
 
-
 sudo apt update && sudo apt upgrade -y 
 sudo apt install neovim nano mc htop tmux docker.io tty-clock -y
 
