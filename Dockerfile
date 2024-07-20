@@ -17,6 +17,7 @@ RUN         apk add --upgrade --no-cache \
                     iputils-ping \
                     iproute2 \
                     openvpn \
+                    nano \
                     unzip \
                     curl \
                     p7zip \
